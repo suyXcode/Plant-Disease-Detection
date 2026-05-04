@@ -44,9 +44,7 @@
       --glow:       0 0 40px rgba(74,163,105,0.15);
     }
 
-    /* ═══════════════════════════════════════════════════
-       BASE
-    ═══════════════════════════════════════════════════ */
+  
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
 
